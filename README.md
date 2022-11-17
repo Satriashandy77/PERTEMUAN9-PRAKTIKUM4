@@ -2,11 +2,15 @@
 
 Repository ini dibuat untuk memenuhi tugas Pertemuan 9-Bahasa Pemrograman (Module Praktikum 4)
 
-NAMA  : Shandy Satria Mandala
-KELAS : TI.22.B1
-NIM   : 312210173
-DOSEN : Agung Nugroho
-MK    : Bahasa Pemrograman
+NAMA        : Shandy Satria Mandala
+
+KELAS       : TI.22.B1
+
+NIM         : 312210173
+
+DOSEN       : Agung Nugroho, M.Kom
+
+MATA KULIAH : Bahasa Pemrograman
 
 Pada halaman ini (Tugas Pertemuan-9-Module Praktikum 4) Dosen memberi tugas sebagai berikut :
 Ada dua bahan praktik dimodule 4 kali ini yaitu :
